@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Xiaofu. Nice to meet you. 👋
 
 <!--
 **xiaofu666/xiaofu666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

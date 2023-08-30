@@ -1,4 +1,4 @@
-### Hi, I'm [Xiaofu](https://xiaofu666.github.io). Nice to meet you. 👋
+### Hi, I'm [Xiaofu](https://xiaofu666.github.io). Nice to meet you. ![hi.gif](https://upload-images.jianshu.io/upload_images/12555132-afce2e2010b2df16.gif?imageMogr2/auto-orient/strip)
 
 
 ![github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaofu666&theme=github_dark)

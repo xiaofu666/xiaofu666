@@ -1,3 +1,8 @@
+[![Build Status](https://github.com/xiaofu666/xiaofu666/workflows/Generate%20Snake/badge.svg?branch=master)](https://github.com/xiaofu666/xiaofu666/actions)
+[![README-EN](https://shields.io/badge/README-English-blue)](README.md)
+[![Wechat](https://img.shields.io/badge/Wechat-Lurich-green.svg)](https://u.wechat.com/EHPxTVDogoJySlhWs9vbKpc)
+[![Email](https://img.shields.io/badge/Email-3290235031@qq.com-red.svg)](https://qm.qq.com/q/Nbo6sgqD0M)
+
 ### Hi, I'm [Xiaofu](https://xiaofu666.github.io). Nice to meet you. ![hi.gif](https://upload-images.jianshu.io/upload_images/12555132-afce2e2010b2df16.gif?imageMogr2/auto-orient/strip)
 
 

@@ -41,6 +41,11 @@
 | <a href="https://github.com/xiaofu666"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaofu666&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=616138&custom_title=Octree%27s%20Github%20Stats" alt="xiaofu666's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaofu666&layout=compact&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=8E354A" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+---
+
+<a href="https://github.com/xiaofu666">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=xiaofu666&column=10&theme=onelight&no-frame=true&rank=-?"/>
+</a>
 <!--
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=xiaofu666&show_icons=true&theme=github_dark&count_private=true)
 

@@ -29,7 +29,7 @@
 
 ![GitHub Snake Light](https://github.com/xiaofu666/xiaofu666/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Light](https://github.com/xiaofu666/xiaofu666/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only#gh-dark-mode-only)
-
+-->
 
 **Languages and Tools:**  
 
@@ -41,7 +41,7 @@
 
 | <a href="https://github.com/xiaofu666"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaofu666&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=616138&custom_title=Octree%27s%20Github%20Stats" alt="xiaofu666's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaofu666&layout=compact&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=8E354A" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
--->
+
 ---
 
 <a href="https://github.com/xiaofu666">
@@ -50,8 +50,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiaofu666&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&include_all_commits=true"   align="left"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaofu666&layout=compact"  align="left" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaofu666&" alt="xiaofu666" />
 
 <!--

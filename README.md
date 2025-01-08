@@ -29,7 +29,7 @@
 
 ![GitHub Snake Light](https://github.com/xiaofu666/xiaofu666/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Light](https://github.com/xiaofu666/xiaofu666/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only#gh-dark-mode-only)
--->
+
 
 **Languages and Tools:**  
 
@@ -51,7 +51,7 @@
 ---
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaofu666&" alt="xiaofu666" />
-
+-->
 <!--
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=xiaofu666&show_icons=true&theme=github_dark&count_private=true)
 

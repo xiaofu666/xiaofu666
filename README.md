@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/xiaofu666/xiaofu666/workflows/Generate%20Snake/badge.svg?branch=master)](https://github.com/xiaofu666/xiaofu666/actions)
+
 [![README-EN](https://shields.io/badge/README-English-blue)](README.md)
 [![Wechat](https://img.shields.io/badge/Wechat-Lurich-green.svg)](https://u.wechat.com/EHPxTVDogoJySlhWs9vbKpc)
 [![Email](https://img.shields.io/badge/Email-3290235031@qq.com-red.svg)](https://qm.qq.com/q/Nbo6sgqD0M)
@@ -53,6 +53,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaofu666&" alt="xiaofu666" />
 -->
 <!--
+[![Build Status](https://github.com/xiaofu666/xiaofu666/workflows/Generate%20Snake/badge.svg?branch=master)](https://github.com/xiaofu666/xiaofu666/actions)
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=xiaofu666&show_icons=true&theme=github_dark&count_private=true)
 
 **xiaofu666/xiaofu666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
